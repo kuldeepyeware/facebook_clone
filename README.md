@@ -1,6 +1,6 @@
 # Facebook Clone using Next.js, Firebase, NextAuth, and Tailwind CSS
 
-Project is deployed [Here]()
+Project is deployed [Here](https://facebook-clone-nine-cyan.vercel.app/)
 
 This is a Facebook clone web application which is created by following Youtube Video [Tutorial](https://youtu.be/6fNy0iD3hsk) built with the following technologies:
 
